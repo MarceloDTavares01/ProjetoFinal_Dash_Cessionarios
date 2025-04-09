@@ -9,7 +9,7 @@ from io import BytesIO
 
 # Configurações gerais
 st.set_page_config(page_title="Dashboard Cessionários", layout="wide")
-st.title("Dashboard de Contratos por Cessionário - Carteira INSS")
+st.title("Dash DinDin JA - Cessão de Crédito INSS - 1º Trimestre 2025")
 st.caption(f"Data de Referência: {datetime.today().strftime('%d/%m/%Y')}")
 
 # Caminho da pasta com arquivos Parquet
